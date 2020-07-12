@@ -1,4 +1,23 @@
-### Hi there 👋
+## Hi there 👋
+
+### 🔭 I’m currently working on Nothing!
+ > Because of obligatory military service. (Will be enlisted on July 27, 2020)
+ 
+ > There's not enough time to do sth so justing writing few stuffs in [coding-groot.tistory.com](coding-groot.tistory.com).
+ 
+### 📚 I'm currently studying
+##### 💬
+ - Julia
+ - Go
+ - C#
+ 
+##### 🛠
+ - JAMstack
+ - React
+
+##### 📘
+ - Computer Networks
+ - Common Algorithms
 
 <!--
 **IamGroooooot/IamGroooooot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
