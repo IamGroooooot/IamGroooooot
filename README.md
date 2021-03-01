@@ -6,18 +6,13 @@
  > There's not enough time to do sth so I'm just writing few stuffs in [Coding-Groot-Blog](https://coding-groot.tistory.com/).
  
 ### 📚 I'm currently studying
-##### 💬
- - Julia
+ - JavaScript
  - Go
- - C#
- 
-##### 🛠
+ - Bash Scripting
  - JAMstack
  - React
-
-##### 📘
+ - Theory of Computation
  - Computer Networks
- - Common Algorithms
 
 <!--
 **IamGroooooot/IamGroooooot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
