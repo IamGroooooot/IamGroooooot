@@ -5,26 +5,6 @@
  
  > There's not enough time to do sth so I'm just writing few stuffs in [Coding-Groot-Blog](https://coding-groot.tistory.com/).
  
-### 📚 I'm currently studying
- - JavaScript
- - Go
- - Bash Scripting
- - JAMstack
- - React
- - Theory of Computation
- - Computer Networks
+![Juhyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamgroooooot&count_private=true&show_icons=true&theme=nord)
 
-<!--
-**IamGroooooot/IamGroooooot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgroooooot&layout=compact)
