@@ -1,8 +1,15 @@
-## 안녕하세요! 👋
+## 안녕하세요! 
+<p align="left">
+  <img width="300" height="300" alt="tree" src="https://media0.giphy.com/media/Vi5TUmZz8LZb95j2xb/giphy.gif"/>
+</p>
 
-웹 개발자를 꿈꾸는 IamGroooooot입니다.
-WEB의 매력에 빠져서 한참 공부중입니다ㅎㅎ
+<br/>
 
-블로그:  [Coding-Groot-Blog](https://coding-groot.tistory.com/).
- 
-![Juhyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamgroooooot&count_private=true&show_icons=true&theme=nord)
+> 성장하는 개발자 IamGroooooot입니다.
+
+| Blog Type | Address |
+| ------------- | ------------- |
+| Dev | [Coding Groot](https://coding-groot.tistory.com/) |
+| TIL | [Grootil](https://grootil.netlify.app/) |
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIamGroooooot&count_bg=%23FF9809&title_bg=%23555555&icon=gumtree.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
