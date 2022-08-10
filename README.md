@@ -1,6 +1,6 @@
 ## 안녕하세요! 
 <p align="left">
-  <img width="300" height="300" alt="tree" src="https://media0.giphy.com/media/Vi5TUmZz8LZb95j2xb/giphy.gif"/>
+  <img width="600" height="600" alt="tree" src="https://media0.giphy.com/media/Vi5TUmZz8LZb95j2xb/giphy.gif"/>
 </p>
 
 <br/>
