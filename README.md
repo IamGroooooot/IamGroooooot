@@ -3,7 +3,7 @@
   <img width="350" height="350" alt="tree" src="https://media0.giphy.com/media/Vi5TUmZz8LZb95j2xb/giphy.gif"/>
 </p>
 
-여러 프로그래밍 언어와 기술에 대한 흥미가 많은 취준생입니다.
+Java, JS, TS, Python과 같은 프로그래밍 언어와 Docker, K8S, 백엔드 등 대한 흥미가 많은 취준생입니다.
 
 | 블로그 | 주소 |
 | ------------- | ------------- |
